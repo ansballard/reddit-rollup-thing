@@ -1,5 +1,7 @@
 # Proof of concept for some reddit question
 
+[This reddit question specifically](https://www.reddit.com/r/learnjavascript/comments/qw8qbu/comment/hl23lzu/?utm_source=share&utm_medium=web2x&context=3)
+
 ```sh
 # init the repo and run the build
 npm ci

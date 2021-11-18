@@ -1,0 +1,19 @@
+{
+  "name": "input-output",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.6",
+    "rollup": "^2.60.0"
+  },
+  "dependencies": {
+    "preact": "^10.5.15"
+  }
+}
